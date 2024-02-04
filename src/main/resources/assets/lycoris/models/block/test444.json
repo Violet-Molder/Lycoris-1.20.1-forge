@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "lycoris:block/natural_yellow_crystal_ore"
+  }
+}

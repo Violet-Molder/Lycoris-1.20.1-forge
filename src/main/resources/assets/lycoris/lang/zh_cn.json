@@ -1,0 +1,12 @@
+{
+  "block.lycoris.natural_blue_crystal_ore": "天然蓝水晶原矿",
+  "block.lycoris.natural_green_crystal_ore": "天然绿水晶原矿",
+  "block.lycoris.natural_red_crystal_ore": "天然红水晶原矿",
+  "block.lycoris.natural_yellow_crystal_ore": "天然黄水晶原矿",
+  "creativetab.lycoris.ore_tab": "彼岸花-矿物",
+  "gui.title.lycoris.test1": "测试1",
+  "item.lycoris.blue_crystal_fragment": "蓝水晶碎片",
+  "item.lycoris.green_crystal_fragment": "绿水晶碎片",
+  "item.lycoris.red_crystal_fragment": "红水晶碎片",
+  "item.lycoris.yellow_crystal_fragment": "黄水晶碎片"
+}

@@ -1,0 +1,12 @@
+{
+  "item.lycoris.yellow_crystal_fragment": "Yellow Crystal Fragment",
+  "item.lycoris.green_crystal_fragment": "Green Crystal Fragment",
+  "item.lycoris.blue_crystal_fragment": "Blue Crystal Fragment",
+  "item.lycoris.red_crystal_fragment": "Red Crystal Fragment",
+  "block.lycoris.natural_yellow_crystal_ore": "Natural Yellow Crystal Ore",
+  "block.lycoris.natural_green_crystal_ore": "Natural Green Crystal Ore",
+  "block.lycoris.natural_blue_crystal_ore": "Natural Blue Crystal Ore",
+  "block.lycoris.natural_red_crystal_ore": "Natural Red Crystal Ore",
+  "creativetab.lycoris.ore_tab": "Lycoirs-Ore",
+  "gui.title.lycoris.test1": "TEST1"
+}
