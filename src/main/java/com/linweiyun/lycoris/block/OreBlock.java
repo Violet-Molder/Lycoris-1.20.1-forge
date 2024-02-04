@@ -1,6 +1,6 @@
 package com.linweiyun.lycoris.block;
 
-import com.linweiyun.lycorismod.init.LycorisRegistry;
+import com.linweiyun.lycoris.init.LycorisRegistry;
 import net.minecraft.util.valueproviders.UniformInt;
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.Blocks;
