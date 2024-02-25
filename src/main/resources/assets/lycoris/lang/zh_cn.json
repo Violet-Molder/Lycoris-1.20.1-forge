@@ -1,12 +1,31 @@
 {
-  "block.lycoris.natural_blue_crystal_ore": "天然蓝水晶原矿",
-  "block.lycoris.natural_green_crystal_ore": "天然绿水晶原矿",
-  "block.lycoris.natural_red_crystal_ore": "天然红水晶原矿",
-  "block.lycoris.natural_yellow_crystal_ore": "天然黄水晶原矿",
-  "creativetab.lycoris.ore_tab": "彼岸花-矿物",
-  "gui.title.lycoris.test1": "测试1",
-  "item.lycoris.blue_crystal_fragment": "蓝水晶碎片",
+  "item.lycoris.yellow_crystal_fragment": "黄水晶碎片",
   "item.lycoris.green_crystal_fragment": "绿水晶碎片",
+  "item.lycoris.blue_crystal_fragment": "蓝水晶碎片",
   "item.lycoris.red_crystal_fragment": "红水晶碎片",
-  "item.lycoris.yellow_crystal_fragment": "黄水晶碎片"
+  "item.lycoris.red_crystal_shove": "红水晶铲",
+  "item.lycoris.red_crystal_pickaxe": "红水晶镐",
+  "item.lycoris.metal_detector": "金属探测仪",
+  "item.lycoris.lv1_injecting_magic_core_green_body_mold": "一阶注魔祭坛核心坯体模具",
+
+  "block.lycoris.natural_yellow_crystal_ore": "天然黄水晶原矿",
+  "block.lycoris.natural_green_crystal_ore": "天然绿水晶原矿",
+  "block.lycoris.natural_blue_crystal_ore": "天然蓝水晶原矿",
+  "block.lycoris.natural_red_crystal_ore": "天然红水晶原矿",
+  "block.lycoris.lv1_injecting_magic_altar_core_1": "一阶注魔祭坛核心框架",
+  "block.lycoris.lv1_injecting_magic_altar_core_green_body": "一阶注魔祭坛核心坯体",
+  "block.lycoris.lv1_injecting_magic_altar_core": "一阶注魔祭坛核心",
+  "block.lycoris.acheron_crystal": "黄泉水晶",
+  "block.lycoris.acheron_crystal_cluster": "黄泉水晶簇",
+
+  "creativetab.lycoris.ore_tab": "彼岸花-矿物",
+  "creativetab.lycoris.decorative_blocks_tab": "彼岸花-装饰性方块",
+  "creativetab.lycoris.tools_tab": "彼岸花-工具",
+  "creativetab.lycoris.item_tab": "彼岸花-物品",
+
+  "key.lycorismod.metal_detector_mode_switch": "金属探测器模式切换",
+  "key.category.lycorismod.lycoris": "彼岸花"
+
+
+
 }

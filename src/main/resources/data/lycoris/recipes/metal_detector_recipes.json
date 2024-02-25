@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    " de",
+    "f g"
+  ],
+  "key": {
+    "a": {
+      "item": "lycoris:red_crystal_fragment"
+    },
+    "b": {
+      "item": "lycoris:blue_crystal_fragment"
+    },
+    "c": {
+      "item": "minecraft:diamond"
+    },
+    "d": {
+      "item": "lycoris:acheron_crystal"
+    },
+    "e": {
+      "item": "lycoris:green_crystal_fragment"
+    },
+    "f": {
+      "item": "minecraft:stick"
+    },
+    "g": {
+      "item": "lycoris:yellow_crystal_fragment"
+    }
+  },
+  "result": {
+    "item": "lycoris:metal_detector",
+    "count": 1
+  }
+}

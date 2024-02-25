@@ -1,0 +1,31 @@
+{
+  "type": "lycoris:lv1_injecting_magic_altar",
+  "catalyst": [
+    {
+      "item": "minecraft:diamond"
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "lycoris:red_crystal_fragment"
+    },
+    {
+      "item": "lycoris:red_crystal_fragment"
+    },
+    {
+      "item": "lycoris:red_crystal_fragment"
+    },
+    {
+      "item": "lycoris:red_crystal_fragment"
+    },
+    {
+      "item": "lycoris:red_crystal_fragment"
+    },
+    {
+      "item": "lycoris:red_crystal_fragment"
+    }
+  ],
+  "output": {
+    "item": "lycoris:blue_crystal_fragment"
+  }
+}
