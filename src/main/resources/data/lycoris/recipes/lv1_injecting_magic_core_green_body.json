@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "lycoris:lv1_injecting_magic_core_green_body_mold"
+  },
+  "base": {
+    "item": "lycoris:lv1_injecting_magic_core_1"
+  },
+  "addition": {
+    "item": "lycoris:acheron_crystal"
+  },
+  "result": {
+    "item": "lycoris:lv1_injecting_magic_core_green_body"
+  }
+}

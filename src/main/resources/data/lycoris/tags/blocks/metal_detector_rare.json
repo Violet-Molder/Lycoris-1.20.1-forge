@@ -1,0 +1,11 @@
+{
+  "values": [
+    "minecraft:diamond_ore",
+    "minecraft:deepslate_diamond_ore",
+    "minecraft:ancient_debris",
+    "minecraft:emerald_ore",
+    "minecraft:nether_quartz_ore",
+    "lycoris:acheron_crystal_cluster"
+
+  ]
+}

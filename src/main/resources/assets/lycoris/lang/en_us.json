@@ -3,10 +3,27 @@
   "item.lycoris.green_crystal_fragment": "Green Crystal Fragment",
   "item.lycoris.blue_crystal_fragment": "Blue Crystal Fragment",
   "item.lycoris.red_crystal_fragment": "Red Crystal Fragment",
+  "item.lycoris.red_crystal_shove": "Red Crystal Shove",
+  "item.lycoris.red_crystal_pickaxe": "Red Crystal Pickaxe",
+  "item.lycoris.metal_detector": "Metal Detector",
+  "item.lycoris.lv1_injecting_magic_core_green_body_mold": "LV1 Injecting Magic Core Green Body Mold",
+
   "block.lycoris.natural_yellow_crystal_ore": "Natural Yellow Crystal Ore",
   "block.lycoris.natural_green_crystal_ore": "Natural Green Crystal Ore",
   "block.lycoris.natural_blue_crystal_ore": "Natural Blue Crystal Ore",
   "block.lycoris.natural_red_crystal_ore": "Natural Red Crystal Ore",
-  "creativetab.lycoris.ore_tab": "Lycoirs-Ore",
-  "gui.title.lycoris.test1": "TEST1"
+  "block.lycoris.lv1_injecting_magic_altar_core_1": "LV1 Injecting Magic Altar Core Framework",
+  "block.lycoris.lv1_injecting_magic_altar_core_green_body": "LV1 Injecting Magic Altar Core Green Body",
+  "block.lycoris.lv1_injecting_magic_altar_core": "LV1 Injecting Magic Altar Core",
+  "block.lycoris.acheron_crystal": "Acheron Crystal",
+  "block.lycoris.acheron_crystal_cluster": "Acheron Crystal Cluster",
+
+
+  "creativetab.lycoris.ore_tab": "Lycoris-Ores",
+  "creativetab.lycoris.decorative_blocks_tab": "Lycoris-Decorative Blocks",
+  "creativetab.lycoris.tools_tab": "Lycoris-Tools",
+  "creativetab.lycoris.item_tab": "Lycoris-Items",
+
+  "key.lycorismod.metal_detector_mode_switch": "Metal Detector Mode Switch",
+  "key.category.lycorismod.lycoris": "Lycoris"
 }

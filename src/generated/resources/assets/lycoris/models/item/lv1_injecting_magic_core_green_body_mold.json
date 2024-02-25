@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "lycoris:item/lv1_injecting_magic_core_green_body_mold"
+  }
+}

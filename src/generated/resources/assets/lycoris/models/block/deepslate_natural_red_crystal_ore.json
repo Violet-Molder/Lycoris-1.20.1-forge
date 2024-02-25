@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "lycoris:block/deepslate_natural_red_crystal_ore"
+  }
+}

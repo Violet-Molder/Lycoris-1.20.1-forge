@@ -1,0 +1,10 @@
+{
+  "values": [
+    "#forge:ores",
+    "lycoris:natural_red_crystal_ore",
+    "lycoris:natural_green_crystal_ore",
+    "lycoris:natural_blue_crystal_ore",
+    "lycoris:natural_yellow_crystal_ore",
+    "lycoris:acheron_crystal_cluster"
+  ]
+}

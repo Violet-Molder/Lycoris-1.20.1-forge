@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a b",
+    " e ",
+    "c d"
+  ],
+  "key": {
+    "a": {
+      "item": "lycoris:red_crystal_fragment"
+    },
+    "b": {
+      "item": "lycoris:blue_crystal_fragment"
+    },
+    "c": {
+      "item": "lycoris:green_crystal_fragment"
+    },
+    "d": {
+      "item": "lycoris:yellow_crystal_fragment"
+    },
+    "e": {
+      "item": "minecraft:enchanting_table"
+  }
+  },
+  "result": {
+    "item": "lycoris:lv1_injecting_core_1",
+    "count": 1
+  }
+}
